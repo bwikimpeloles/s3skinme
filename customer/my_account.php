@@ -52,17 +52,6 @@ if(!empty($customer_confirm_code)){
 
 ?>
 
-<div class="alert alert-danger"><!-- alert alert-danger Starts -->
-
-<strong> Warning! </strong> Please Confirm Your Email and if you have not received your confirmation email
-
-<a href="my_account.php?send_email" class="alert-link">
-
-Send Email Again
-
-</a>
-
-</div><!-- alert alert-danger Ends -->
 
 <?php } ?>
 
