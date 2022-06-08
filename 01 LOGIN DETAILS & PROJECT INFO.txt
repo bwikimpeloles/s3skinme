@@ -1,11 +1,5 @@
-**Log on to freeprojectscodes.com for more projects!***
 
 **Database Name: ecom_store**
-
-**Developed by Yasser Dalouzi**
-
-**Recommended PHP Version 5.6 and Newer**
-
 
 **Admin Panel: /admin_area **
 
