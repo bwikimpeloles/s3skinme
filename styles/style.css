@@ -7,7 +7,7 @@ font-family: "Roboto", Helvetica, Arial, sans-serif;
 font-size: 14px;
 line-height: 1.42857143;
 color: #333333;
-background-color: #f0f0f0;
+background-color: #ffdbec;
 overflow-x: hidden;
 
 }
@@ -50,7 +50,7 @@ text-align: center;
 
 #top a {
 
-color: #fff;
+color: #ffdbec;
 
 }
 
@@ -95,7 +95,7 @@ color: #f7f7f7;
 /* Header Styles */
 
 .navbar {
-background:white;
+background:pink;
 
 }
 

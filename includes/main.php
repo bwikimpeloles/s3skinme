@@ -11,10 +11,10 @@
           <a class="currency__change" href="customer/my_account.php?my_orders">
           <?php
           if(!isset($_SESSION['customer_email'])){
-          echo "Welcome :Guest"; 
+          echo "Welcome :Guest";
           }
           else
-          { 
+          {
               echo "Welcome : " . $_SESSION['customer_email'] . "";
             }
 ?>
@@ -27,20 +27,20 @@
             <?php items(); ?> items
           </a>
         </div>
-        
-        
+
+
         <ul class="login">
 
 <li class="login__item">
 <?php
 if(!isset($_SESSION['customer_email'])){
   echo '<a href="customer_register.php" class="login__link">Register</a>';
-} 
+}
   else
-  { 
+  {
       echo '<a href="customer/my_account.php?my_orders" class="login__link">My Account</a>';
-  }   
-?>  
+  }
+?>
 </li>
 
 
@@ -48,16 +48,16 @@ if(!isset($_SESSION['customer_email'])){
 <?php
 if(!isset($_SESSION['customer_email'])){
   echo '<a href="checkout.php" class="login__link">Sign In</a>';
-} 
+}
   else
-  { 
+  {
       echo '<a href="./logout.php" class="login__link">Logout</a>';
-  }   
-?>  
-  
+  }
+?>
+
 </li>
 </ul>
-      
+
       </div>
     </div>
     <!-- bottomline -->
@@ -66,7 +66,8 @@ if(!isset($_SESSION['customer_email'])){
 
         <div class="logo">
           <a class="logo__link" href="index.php">
-            <img class="logo__img" src="images/logo.png" alt="Avenue fashion logotype" width="237" height="19">
+            <img class="logo__img" src="images/trlogo.png" alt="Image logotype" width="80" height="19">
+            <img class="logo__img" src="images/textlogo.png" alt="Text logotype" width="150" height="19">
           </a>
         </div>
 
@@ -76,14 +77,14 @@ if(!isset($_SESSION['customer_email'])){
             <li class="categories__item">
               <a class="categories__link" href="#">
                 Mens
-               
+
               </a>
               </li>
 
             <li class="categories__item">
               <a class="categories__link" href="#">
                 Womens
-               
+
               </a>
             </li>
 
@@ -135,7 +136,7 @@ if(!isset($_SESSION['customer_email'])){
                     </ul>
                   </div>
                 </div>
-             
+
 
               </div>
 
