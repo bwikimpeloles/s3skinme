@@ -39,6 +39,7 @@ pre {
 
 a {
   background-color: transparent;
+  color:#FF007A;
   -webkit-text-decoration-skip: objects
 }
 
@@ -342,7 +343,8 @@ body {
 
 .container {
   width: 1170px;
-  margin: 0 auto
+  margin: 0 auto;
+
 }
 
 img {
@@ -378,7 +380,7 @@ img {
 
 .page-header__topline {
   height: 45px;
-  background-color: #333
+  background-color: #F5DCDA;
 }
 
 .page-header__topline .currency {
@@ -448,7 +450,7 @@ img {
 }
 
 .page-header__bottomline .logo__link {
-  margin-top: 38px;
+  margin-top: 5px;
   display: block
 }
 
@@ -496,7 +498,7 @@ img {
 }
 
 .page-header__bottomline .main-nav .categories__link:hover {
-  color: #00c8c8
+  color: #FF007A
 }
 
 .page-header__bottomline .main-nav .categories__link i {
@@ -507,7 +509,7 @@ img {
 }
 
 .page-header__bottomline .main-nav .categories__link--active {
-  color: #00c8c8
+  color: #FF007A
 }
 
 .page-header .dropdown {
@@ -591,7 +593,7 @@ img {
 
 .page-footer .footer-nav {
   padding: 60px 0 55px;
-  background-color: #f8f8f8
+  background-color: transparent;
 }
 
 .page-footer .footer-nav__col {
@@ -619,7 +621,7 @@ img {
 .page-footer .footer-nav__col .address {
   margin-bottom: 23px;
   padding-top: 4px;
-  color: #777;
+  color: #FF007A;
   font-size: 14px;
   line-height: 20px;
   font-style: normal;
@@ -628,12 +630,12 @@ img {
 
 .page-footer .footer-nav__col .phone {
   margin-bottom: 14px;
-  color: #777;
+  color: #FF007A;
   font-size: 14px
 }
 
 .page-footer .footer-nav__col .phone__number {
-  color: #777;
+  color: #FF007A;
   font-size: 14px;
   text-decoration: underline;
   -webkit-transition: color .2s;
@@ -645,12 +647,12 @@ img {
 }
 
 .page-footer .footer-nav__col .email {
-  color: #777;
+  color: #FF007A;
   font-size: 14px
 }
 
 .page-footer .footer-nav__col .email__addr {
-  color: #777;
+  color: #FF007A;
   font-size: 14px;
   text-decoration: underline;
   -webkit-transition: color .2s;
@@ -663,7 +665,7 @@ img {
 
 .page-footer .footer-nav__heading {
   margin-bottom: 23px;
-  color: #575153;
+  color: black;
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase
@@ -681,7 +683,7 @@ img {
 }
 
 .page-footer .footer-nav__link {
-  color: #777;
+  color:#FF007A;
   font-size: 14px;
   line-height: 30px;
   text-decoration: none;
@@ -695,7 +697,7 @@ img {
 
 .page-footer .banners {
   padding-bottom: 56px;
-  background-color: #f8f8f8
+  background-color: transparent;
 }
 
 .page-footer .banners .banner-award {
@@ -857,13 +859,13 @@ img {
   width: 100%;
   height: 45px;
   padding-left: 18px;
-  background-color: #00c8c8;
+  background-color: transparent;
   -webkit-transition: background-color .3s;
   transition: background-color .3s
 }
 
 .btn--basket:hover {
-  background-color: #009595
+  background-color: #777
 }
 
 .btn--basket .icon-basket {
