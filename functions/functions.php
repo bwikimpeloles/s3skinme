@@ -115,16 +115,16 @@ $pro_url = $row_products['product_url'];
 
 if($pro_label == "Sale" or $pro_label == "Gift"){
 
-$product_price = "<del> $$pro_price </del>";
+$product_price = "<del> RM$pro_price </del>";
 
-$product_psp_price = "| $$pro_psp_price";
+$product_psp_price = "| RM$pro_psp_price";
 
 }
 else{
 
 $product_psp_price = "";
 
-$product_price = "$$pro_price";
+$product_price = "RM$pro_price";
 
 }
 
@@ -166,7 +166,7 @@ echo "
 
 <center>
 
-<p class='btn btn-warning'> $manufacturer_name </p>
+<p class='btn'> $manufacturer_name </p>
 
 </center>
 
@@ -178,9 +178,7 @@ echo "
 
 <p class='buttons' >
 
-<a href='$pro_url' class='btn btn-default' >View Details</a>
-
-<a href='$pro_url' class='btn btn-danger'>
+<a href='$pro_url' class='btn btn-default'>
 
 <i class='fa fa-shopping-cart'></i> Add To Cart
 
@@ -322,16 +320,16 @@ $pro_url = $row_products['product_url'];
 
 if($pro_label == "Sale" or $pro_label == "Gift"){
 
-$product_price = "<del> $$pro_price </del>";
+$product_price = "<del> RM$pro_price </del>";
 
-$product_psp_price = "| $$pro_psp_price";
+$product_psp_price = "| RM$pro_psp_price";
 
 }
 else{
 
 $product_psp_price = "";
 
-$product_price = "$$pro_price";
+$product_price = "RM$pro_price";
 
 }
 
@@ -373,7 +371,7 @@ echo "
 
 <center>
 
-<p class='btn btn-warning'> $manufacturer_name </p>
+<p class='btn'> $manufacturer_name </p>
 
 </center>
 
@@ -385,9 +383,7 @@ echo "
 
 <p class='buttons' >
 
-<a href='$pro_url' class='btn btn-default' >View details</a>
-
-<a href='$pro_url' class='btn btn-danger'>
+<a href='$pro_url' class='btn btn-default'>
 
 <i class='fa fa-shopping-cart' data-price=$pro_price></i> Add To Cart
 
