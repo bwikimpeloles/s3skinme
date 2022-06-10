@@ -73,6 +73,12 @@ if(!isset($_SESSION['customer_email'])){
 
         <nav class="main-nav">
           <ul class="categories">
+            
+            <li class="categories__item">
+              <a class="categories__link" href="index.php" style="color:#860945;font-weight:bold;">
+                S3.SkinMe
+              </a>
+              </li>
 
 
             <li class="categories__item">
