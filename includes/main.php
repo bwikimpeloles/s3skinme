@@ -94,11 +94,6 @@ if(!isset($_SESSION['customer_email'])){
               </a>
             </li>
 
-            <li class="categories__item">
-              <a class="categories__link" href="localstore.php">
-                Local Stores
-              </a>
-            </li>
 
           <li class="categories__item">
               <a class="categories__link" href="customer/my_account.php?my_orders">
