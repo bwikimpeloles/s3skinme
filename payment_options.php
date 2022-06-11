@@ -19,13 +19,13 @@ $customer_id = $row_customer['customer_id'];
 
 <p class="lead text-center">
 
-<a href="order.php?c_id=<?php echo $customer_id; ?>">Pay Off line</a>
+<a href="order.php?c_id=<?php echo $customer_id; ?>">Click to pay</a>
 
 </p>
 
 <center><!-- center Starts -->
 
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <form action="order.php?c_id=<?php echo $customer_id; ?>" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="9PWJZYVQH8KGU">
   <input type="image" src="https://www.hsbc.com.my/content/dam/hsbc/my/images/ways-to-bank/fpx-logo.jpg" border="0" name="submit">
