@@ -933,10 +933,10 @@ img {
 .hero .btn1 {
   text-decoration: none;
   text-align: center;
-  color: gray;
+  color: #FF007A;
   font-size: 14px;
   font-family: Roboto;
-  border: 1.5px solid gray;
+  border: 1.5px solid #FF007A;
   background-color: #f8f8f8;
   position: relative;
   line-height: 40px;
