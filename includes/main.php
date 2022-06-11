@@ -103,7 +103,6 @@ if(!isset($_SESSION['customer_email'])){
           <li class="categories__item">
               <a class="categories__link" href="customer/my_account.php?my_orders">
                 My Account
-                <i class="categories__link"></i>
               </a>
             </li>
 

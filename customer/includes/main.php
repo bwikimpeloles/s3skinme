@@ -102,7 +102,6 @@
           <li class="categories__item">
               <a class="categories__link" href="my_account.php?my_orders">
                 My Account
-                <i class="ategories__link"></i>
               </a>
             </li>
 
