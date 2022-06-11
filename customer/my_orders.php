@@ -28,11 +28,10 @@ If you have any questions, please feel free to <a target = '_blank' href="http:/
 <th>#</th>
 <th>Amount</th>
 <th>Invoice</th>
-<th>Qty</th>
-<th>Size</th>
+<th>Quantity</th>
 <th>Order Date</th>
 <th>Status</th>
-<th>Action</th>
+
 
 
 </tr>
@@ -94,21 +93,16 @@ $order_status = "<b style='color:green;'>Paid</b>";
 
 <th><?php echo $i; ?></th>
 
-<td>$<?php echo $due_amount; ?></td>
+<td>RM<?php echo $due_amount; ?></td>
 
 <td><?php echo $invoice_no; ?></td>
 
 <td><?php echo $qty; ?></td>
 
-<td><?php echo $size; ?></td>
-
 <td><?php echo $order_date; ?></td>
 
 <td><?php echo $order_status; ?></td>
 
-<td>
-<a href="confirm.php?order_id=<?php echo $order_id; ?>" target="blank" class="btn btn-success btn-xs" > Confirm If Paid </a>
-</td>
 
 
 </tr><!-- tr Ends -->
