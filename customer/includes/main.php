@@ -74,6 +74,17 @@
         <nav class="main-nav">
           <ul class="categories">
 
+            <li class="categories__item">
+              <a class="categories__link" href="../index.php" style="color:#860945;font-weight:bold;">
+                S3.SkinMe
+              </a>
+              </li>
+
+            <li class="categories__item">
+              <a class="categories__link" target = '_blank' href="http://wa.me/601117950194">
+                Chat with Us
+              </a>
+            </li>
 
 
             <li class="categories__item">
@@ -89,45 +100,10 @@
             </li>
 
           <li class="categories__item">
-              <a class="categories__link" href="#">
+              <a class="categories__link" href="my_account.php?my_orders">
                 My Account
-                <i class="icon-down-open-1"></i>
+                <i class="ategories__link"></i>
               </a>
-              <div class="dropdown dropdown--lookbook">
-                <div class="clearfix">
-                  <div class="dropdown__half">
-                    <div class="dropdown__heading">Account Settings</div>
-                    <ul class="dropdown__items">
-                      <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">My Wishlist</a>
-                      </li>
-                      <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">My Orders</a>
-                      </li>
-                      <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">View Shopping Cart</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="dropdown__half">
-                    <div class="dropdown__heading"></div>
-                    <ul class="dropdown__items">
-                      <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">Edit Your Account</a>
-                      </li>
-                      <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">Change Password</a>
-                      </li>
-                      <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">Delete Account</a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-
-
-              </div>
-
             </li>
 
           </ul>

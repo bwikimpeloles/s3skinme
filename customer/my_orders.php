@@ -7,7 +7,7 @@
 
 <p class="text-muted" >
 
-If you have any questions, please feel free to <a href="../contact.php" > contact us,</a> our customer service center is working for you 24/7.
+If you have any questions, please feel free to <a target = '_blank' href="http://wa.me/601117950194" > contact us,</a> our customer service center is working for you 24/7.
 
 
 </p>
@@ -121,6 +121,3 @@ $order_status = "<b style='color:green;'>Paid</b>";
 </table><!-- table table-bordered table-hover Ends -->
 
 </div><!-- table-responsive Ends -->
-
-
-

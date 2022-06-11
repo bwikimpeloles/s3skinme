@@ -130,7 +130,7 @@ $total += $sub_total;
 
 <td>
 
-$<?php echo $only_price; ?>.00
+RM<?php echo $only_price; ?>.00
 
 </td>
 
@@ -146,7 +146,7 @@ $<?php echo $only_price; ?>.00
 
 <td>
 
-$<?php echo $sub_total; ?>.00
+RM<?php echo $sub_total; ?>.00
 
 </td>
 
@@ -162,7 +162,7 @@ $<?php echo $sub_total; ?>.00
 
 <th colspan="5"> Total </th>
 
-<th colspan="2"> $<?php echo $total; ?>.00 </th>
+<th colspan="2"> RM<?php echo $total; ?>.00 </th>
 
 </tr>
 
@@ -515,7 +515,7 @@ Shipping and additional costs are calculated based on the values you have entere
 
 <td> Order Subtotal </td>
 
-<th> $<?php echo $total; ?>.00 </th>
+<th> RM<?php echo $total; ?>.00 </th>
 
 </tr>
 
@@ -523,7 +523,7 @@ Shipping and additional costs are calculated based on the values you have entere
 
 <td> Shipping and handling </td>
 
-<th>$0.00</th>
+<th>RM0.00</th>
 
 </tr>
 
@@ -531,7 +531,7 @@ Shipping and additional costs are calculated based on the values you have entere
 
 <td>Tax</td>
 
-<th>$0.00</th>
+<th>RM0.00</th>
 
 </tr>
 
@@ -539,7 +539,7 @@ Shipping and additional costs are calculated based on the values you have entere
 
 <td>Total</td>
 
-<th>$<?php echo $total; ?>.00</th>
+<th>RM<?php echo $total; ?>.00</th>
 
 </tr>
 
