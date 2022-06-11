@@ -399,7 +399,7 @@ img {
 
 .page-header__topline {
   height: 45px;
-  background-color: #333
+  background-color: #F5DCDA
 }
 
 .page-header__topline .currency {
@@ -517,7 +517,7 @@ img {
 }
 
 .page-header__bottomline .main-nav .categories__link:hover {
-  color: #00c8c8
+  color: #FF007A
 }
 
 .page-header__bottomline .main-nav .categories__link i {
@@ -528,7 +528,7 @@ img {
 }
 
 .page-header__bottomline .main-nav .categories__link--active {
-  color: #00c8c8
+  color: #FF007A
 }
 
 .page-header .dropdown {
@@ -702,7 +702,7 @@ img {
 }
 
 .page-footer .footer-nav__link {
-  color: #777;
+  color: #FF007A;
   font-size: 14px;
   line-height: 30px;
   text-decoration: none;
@@ -744,7 +744,7 @@ img {
   padding-top: 80px;
   font-size: 0;
   text-align: center;
-  background-color: #00c8c8
+  background-color: #FF007A;
 }
 
 .page-footer .banners .banner-social__link {
@@ -856,7 +856,7 @@ img {
 }
 
 .brand__link {
-  color: #00c8c8;
+  color: #FF007A;
   text-decoration: none
 }
 
@@ -879,6 +879,7 @@ img {
   height: 45px;
   padding-left: 18px;
   background-color: #00c8c8;
+  color: #FF007A;
   -webkit-transition: background-color .3s;
   transition: background-color .3s
 }
@@ -948,7 +949,7 @@ img {
 }
 
 .hero .btn1:hover {
-  background-color: #009595;
+  background-color:#FF007A;
   color: white;
 }
 
@@ -991,7 +992,7 @@ img {
 }
 
 .todo a:hover {
-  color: #009595;
+  color: #FF007A;
 }
 
 .tac {
