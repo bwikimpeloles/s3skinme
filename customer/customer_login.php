@@ -36,11 +36,7 @@
 
 <input type="password" class="form-control" name="c_pass" required >
 
-<h4 align="center">
 
-<a href="forgot_pass.php"> Forgot Password </a>
-
-</h4>
 
 </div><!-- form-group Ends -->
 
