@@ -65,7 +65,7 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Price </label>
+<label class="col-md-3 control-label"> Price after Coupon</label>
 
 <div class="col-md-6">
 
@@ -101,13 +101,13 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label">Select coupon for Product Or bundle</label>
+<label class="col-md-3 control-label">Select coupon for Product</label>
 
 <div class="col-md-6">
 
 <select name="product_id" class="form-control">
 
-<option> Select Coupon Product  </option>
+
 
 <?php
 
@@ -127,11 +127,6 @@ echo "<option value='$p_id'> $p_title </option>";
 
 ?>
 
-<option></option>
-
-<option>Select Coupon For Bundle</option>
-
-<option></option>
 
 <?php
 

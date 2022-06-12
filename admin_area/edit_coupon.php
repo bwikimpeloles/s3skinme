@@ -106,7 +106,7 @@ $product_title = $row_products['product_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Price </label>
+<label class="col-md-3 control-label"> Price after Coupon </label>
 
 <div class="col-md-6">
 
@@ -142,7 +142,7 @@ $product_title = $row_products['product_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Select Coupon For Product or Bundle </label>
+<label class="col-md-3 control-label"> Select Coupon For Product </label>
 
 <div class="col-md-6">
 
@@ -169,11 +169,6 @@ echo "<option value='$p_id'> $p_title </option>";
 
 ?>
 
-<option></option>
-
-<option>Select Coupon for bundle</option>
-
-<option></option>
 
 <?php
 
