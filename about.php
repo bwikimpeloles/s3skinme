@@ -12,7 +12,7 @@ include("includes/main.php");
   <main>
     <!-- HERO -->
     <div class="nero">
-      <div class="nero__heading">
+      <div class="nero__heading" style="text-shadow: 2px 2px 5px #777;">
         <span class="nero__bold">About</span> us
       </div>
       <p class="nero__text">
@@ -25,7 +25,7 @@ include("includes/main.php");
 
 <div class="col-md-12" ><!-- col-md-12 Starts -->
 
-<div class="box" ><!-- box Starts -->
+<div class="box" style="margin-top:10px"><!-- box Starts -->
 
 <?php
 
