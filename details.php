@@ -703,7 +703,7 @@ echo "
 
 <center>
 
-<p class='btn btn-warning'> $manufacturer_name </p>
+<p class='btn'> $manufacturer_name </p>
 
 </center>
 
