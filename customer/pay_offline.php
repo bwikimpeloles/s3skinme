@@ -33,7 +33,7 @@ If you have any questions, please feel free to <a href="../contact.php" >contact
 
 <tr>
 
-<td> Bank Name: Maybank Account No: 03333333,<br> Branch Code: 0342,<br> Branch Name: Nur Suraiya</td>
+<td> Bank Name: Maybank,<br> Account No: 03333333,<br> Branch Code: 0342,<br> Branch Name: Nur Suraiya</td>
 
 <td> Mobile No: +60 11-1795 0194,<br> Name: Nur Suraiya </td>
 
