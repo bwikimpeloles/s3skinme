@@ -68,7 +68,7 @@ $aCat[(int)$sVal] = (int)$sVal;
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-Manufacturers
+Brands
 
 <div class="pull-right"><!-- pull-right Starts -->
 
@@ -94,7 +94,7 @@ Hide
 
 <div class="input-group"><!-- input-group Starts -->
 
-<input type="text" class="form-control" id="dev-table-filter" data-action="filter" data-filters="#dev-manufacturer" placeholder="Filter Manufacturers">
+<input type="text" class="form-control" id="dev-table-filter" data-action="filter" data-filters="#dev-manufacturer" placeholder="Filter Brands">
 
 
 <a class="input-group-addon"> <i class="fa fa-search"></i> </a>
@@ -478,7 +478,7 @@ echo "
 
 if(isset($aCat[$cat_id])){ echo "checked='checked'"; }
 
-echo " type='checkbox' value='$cat_id' name='cat' class='get_cat' id='cat'> 
+echo " type='checkbox' value='$cat_id' name='cat' class='get_cat' id='cat'>
 
 <span>
 $cat_image
@@ -529,7 +529,7 @@ echo "
 
 if(isset($aCat[$cat_id])){ echo "checked='checked'"; }
 
-echo " type='checkbox' value='$cat_id' name='cat' class='get_cat' id='cat'> 
+echo " type='checkbox' value='$cat_id' name='cat' class='get_cat' id='cat'>
 
 <span>
 $cat_image
