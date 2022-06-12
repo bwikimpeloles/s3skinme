@@ -1,13 +1,13 @@
 
 <center>
 
-<h1>Do You Really Want To Delete Your Account!</h1>
+<h1>Confirm to delete your account?</h1>
 
 <form action="" method="post">
 
-<input class="btn btn-danger" type="submit" name="yes" value="Yes, I want to delete">
+<input class="btn btn-danger" type="submit" name="yes" value="Confirm to delete">
 
-<input class="btn btn-primary" type="submit" name="no" value="No, I Don't want to delete">
+<input class="btn btn-primary" type="submit" name="no" value="Cancel">
 
 </form>
 
