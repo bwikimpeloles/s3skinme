@@ -19,7 +19,7 @@ include("includes/main.php");
   <main>
     <!-- HERO -->
     <div class="nero">
-      <div class="nero__heading">
+      <div class="nero__heading" style="text-shadow: 2px 2px 5px #777;">
         <span class="nero__bold">My </span>Account
       </div>
       <p class="nero__text">
@@ -28,7 +28,7 @@ include("includes/main.php");
   </main>
 
 <div id="content" ><!-- content Starts -->
-<div class="container" ><!-- container Starts -->
+<div class="container" style="margin-top:10px" ><!-- container Starts -->
 
 
 
