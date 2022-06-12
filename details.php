@@ -260,7 +260,7 @@ if($status == "product"){
 
 <select name="product_qty" class="form-control" >
 
-<option>Select quantity</option>
+<option value=1 >Select quantity</option>
 <option>1</option>
 <option>2</option>
 <option>3</option>
@@ -276,16 +276,13 @@ if($status == "product"){
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-5 control-label" >Product Size</label>
+<label class="col-md-5 control-label" >Product Variation</label>
 
 <div class="col-md-7" ><!-- col-md-7 Starts -->
 
 <select name="product_size" class="form-control" >
 
-<option>Select a Size</option>
-<option>Small</option>
-<option>Medium</option>
-<option>Large</option>
+<option>No Variation</option>
 
 
 </select>
