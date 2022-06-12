@@ -23,9 +23,7 @@ If you have any questions, please feel free to <a href="../contact.php" >contact
 
 <th> Bank Account Details </th>
 
-<th> UBL Omni,Mobi Cash Details: </th>
-
-<th> Western Union Details: </th>
+<th> Touch n Go Details: </th>
 
 </tr>
 
@@ -35,12 +33,9 @@ If you have any questions, please feel free to <a href="../contact.php" >contact
 
 <tr>
 
-<td> Bank Name:ubl Account No:03333333 Branch Code:0342 Branch Name:DemoBranch	 </td>
+<td> Bank Name:ubl Account No:03333333,<br> Branch Code:0342,<br> Branch Name: Nur Suraiya</td>
 
-<td> NIC#001230006 Mobile No:7410000000, Name:DemoName </td>
-
-<td> Full Name:Demo Name, Mobile No:7000015000, Name:Demo, Country:US, N.I.C No:011234567
-</td>
+<td> Mobile No:+60 11-1795 0194,<br> Name: Nur Suraiya </td>
 
 
 </tr>
