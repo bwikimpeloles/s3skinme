@@ -48,7 +48,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <li class="active">
 
-<i class="fa fa-dashboard"></i> Dashboard / Edit Manufacturer
+<i class="fa fa-dashboard"></i> Dashboard / Edit Brand
 
 </li>
 
@@ -69,7 +69,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw"> </i> Edit Manufacturer
+<i class="fa fa-money fa-fw"> </i> Edit Brand
 
 </h3><!-- panel-title Ends -->
 
@@ -81,7 +81,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Manufacturer Name </label>
+<label class="col-md-3 control-label"> Brand Name </label>
 
 <div class="col-md-6">
 
@@ -93,16 +93,16 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Show as Top Manufacturers </label>
+<label class="col-md-3 control-label"> Show as Top Brands </label>
 
 <div class="col-md-6">
 
-<input type="radio" name="manufacturer_top" value="yes" 
+<input type="radio" name="manufacturer_top" value="yes"
 <?php if($m_top == 'no'){}else{ echo "checked='checked'"; } ?> >
 
 <label> Yes </label>
 
-<input type="radio" name="manufacturer_top" value="no" 
+<input type="radio" name="manufacturer_top" value="no"
 <?php if($m_top == 'no'){ echo "checked='checked'"; }else{} ?> >
 
 <label> No </label>
@@ -113,7 +113,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Select Manufacturer Image </label>
+<label class="col-md-3 control-label"> Select Brands Image </label>
 
 <div class="col-md-6">
 

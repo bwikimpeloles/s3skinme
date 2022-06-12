@@ -44,7 +44,7 @@ else {
 </div><!-- row Ends -->
 
 
-<div class="row"><!-- 2 row Starts --> 
+<div class="row"><!-- 2 row Starts -->
 
 <div class="col-lg-12"><!-- col-lg-12 Starts -->
 
@@ -89,7 +89,7 @@ else {
 
 <p style="font-size:15px; font-weight:bold;">
 
-Product Url Example : navy-blue-t-shirt
+Product Url Example : product-skincare-1
 
 </p>
 
@@ -357,6 +357,8 @@ echo "<option value='$cat_id'>$cat_title</option>";
 <input type="text" name="product_label" class="form-control" required >
 
 </div>
+<br><br> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Note: Product with 'Sale' label will sold with sale price 
 
 </div><!-- form-group Ends -->
 
@@ -380,7 +382,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 </div><!-- col-lg-12 Ends -->
 
-</div><!-- 2 row Ends --> 
+</div><!-- 2 row Ends -->
 
 
 

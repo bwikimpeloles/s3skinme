@@ -16,7 +16,7 @@ else {
 <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
 
   <script>tinymce.init({ selector:'#about_desc' });</script>
-  
+
 <?php
 
 $get_about_us = "select * from about_us";
@@ -31,11 +31,11 @@ $about_short_desc = $row_about_us['about_short_desc'];
 
 $about_desc = $row_about_us['about_desc'];
 
-?> 
+?>
 
 <div class="row" ><!-- 1 row Starts -->
 
-<div class="col-lg-12" ><!-- col-lg-12 Starts --> 
+<div class="col-lg-12" ><!-- col-lg-12 Starts -->
 
 <ol class="breadcrumb"><!-- breadcrumb Starts -->
 
@@ -47,7 +47,7 @@ $about_desc = $row_about_us['about_desc'];
 
 </ol><!-- breadcrumb Ends -->
 
-</div><!-- col-lg-12 Ends --> 
+</div><!-- col-lg-12 Ends -->
 
 </div><!-- 1 row Ends -->
 

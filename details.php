@@ -360,7 +360,7 @@ echo "
 
 Product Price : <del> $$pro_price </del><br>
 
-Product sale Price : RM$pro_psp_price
+Product Sale Price : RM$pro_psp_price
 
 </p>
 
