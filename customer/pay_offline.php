@@ -4,7 +4,7 @@
 
 <p class="text-muted" >
 
-If you have any questions, please feel free to <a href="../contact.php" >contact us,</a> our customer service center is working for you 24/7.
+If you have any questions, please feel free to <a target = '_blank' href="http://wa.me/601117950194" > contact us,</a> our customer service center is working for you 24/7.
 
 </p>
 
@@ -33,9 +33,9 @@ If you have any questions, please feel free to <a href="../contact.php" >contact
 
 <tr>
 
-<td> Bank Name:ubl Account No:03333333,<br> Branch Code:0342,<br> Branch Name: Nur Suraiya</td>
+<td> Bank Name: CIMB Bank Berhad <br>Account No: 7123456789<br> Recipient Name: Nur Suraiya</td>
 
-<td> Mobile No:+60 11-1795 0194,<br> Name: Nur Suraiya </td>
+<td> Mobile No: +60 11-1795 0194,<br> Name: Nur Suraiya </td>
 
 
 </tr>
