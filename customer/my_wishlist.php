@@ -3,7 +3,7 @@
 
 <h1> My Wishlist </h1>
 
-<p class="lead"> Your all Wishlist Products on one place. </p>
+<p class="lead"> Your all Wishlist Products in one place. </p>
 
 </center><!-- center Ends -->
 
@@ -79,7 +79,7 @@ $i++;
 
 <img src="../admin_area/product_images/<?php echo $product_img1; ?>" width="60" height="60">
 
-&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;
 
 <a href="../<?php echo $product_url; ?>">
 

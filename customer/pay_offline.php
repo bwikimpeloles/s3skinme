@@ -1,6 +1,6 @@
 <center><!-- center Starts -->
 
-<h1> Pay Later Using Method  </h1>
+<h1> Pay Later Methods are as below </h1>
 
 <p class="text-muted" >
 

@@ -3,7 +3,7 @@
 
 <h1>My Orders</h1>
 
-<p class="lead"> Your orders on one place.</p>
+<p class="lead"> Your orders in one place.</p>
 
 <p class="text-muted" >
 
