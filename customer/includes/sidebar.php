@@ -54,7 +54,7 @@ echo "
 
 <li class="<?php if(isset($_GET['pay_offline'])){ echo "active"; } ?>">
 
-<a href="my_account.php?pay_offline"> <i class="fa fa-bolt"></i> Pay Offline </a>
+<a href="my_account.php?pay_offline"> <i class="fa fa-bolt"></i> Pay Later </a>
 
 </li>
 

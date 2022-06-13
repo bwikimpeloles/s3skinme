@@ -180,7 +180,7 @@ echo "
 
 <a href='$pro_url' class='btn btn-default'>
 
-<i class='fa fa-shopping-cart'></i> Add To Cart
+<i ></i> View Product
 
 </a>
 
@@ -385,7 +385,7 @@ echo "
 
 <a href='$pro_url' class='btn btn-default'>
 
-<i class='fa fa-shopping-cart' data-price=$pro_price></i> Add To Cart
+<i  data-price=$pro_price></i> View Product
 
 </a>
 

@@ -355,7 +355,7 @@ echo "
 
 <p class='price'>
 
-Product Price : <del> $$pro_price </del><br>
+Product Price : <del> RM$pro_price </del><br>
 
 Product Sale Price : RM$pro_psp_price
 
@@ -715,13 +715,8 @@ echo "
 
 <p class='buttons' >
 
-<a href='$pro_url' class='btn btn-default' >View Details</a>
+<a href='$pro_url' class='btn btn-default' >View Product</a>
 
-<a href='$pro_url' class='btn btn-danger'>
-
-<i class='fa fa-shopping-cart'></i> Add To Cart
-
-</a>
 
 
 </p>

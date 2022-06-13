@@ -66,7 +66,8 @@ else {
 <th>Order Date</th>
 <th>Total Amount</th>
 <th>Status</th>
-<th>Action</th>
+<th colspan="2">Action</th>
+
 
 
 </tr>
@@ -186,6 +187,13 @@ echo $order_status='Completed';
 
 </a>
 
+</td>
+
+
+<td>
+<a href="../customer/confirm.php?order_id=<?php echo $order_id; ?>">
+Confirm Payment
+</a>
 </td>
 
 

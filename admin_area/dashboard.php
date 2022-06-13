@@ -384,7 +384,7 @@ else {
 
                     </div><!-- panel-heading Ends -->
 
-                    <a href="index.php?view_orders">
+                    <a href="index.php?view_coupons">
 
                     <div class="panel-footer"><!-- panel-footer Starts -->
 
