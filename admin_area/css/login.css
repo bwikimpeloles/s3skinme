@@ -2,21 +2,21 @@
 body{
 
 padding-top:10%;
-background-color: teal;
+background-color: #f9b0d3;
 }
 
 .form-login {
 max-width:350px;
 padding:40px;
 border-radius:30px;
-background:#e9e9e9;
+background:#f26fb9;
 margin:0 auto;
 
 }
 
 
 .form-login .form-login-heading{
-color:#337ab7;
+color:#e4e6e7;
 text-align:center;
 
 }

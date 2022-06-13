@@ -1,10 +1,10 @@
 <center><!-- center Starts -->
 
-<h1> Pay OffLine Using Method  </h1>
+<h1> Pay Later Methods are as below </h1>
 
 <p class="text-muted" >
 
-If you have any questions, please feel free to <a href="../contact.php" >contact us,</a> our customer service center is working for you 24/7.
+If you have any questions, please feel free to <a target = '_blank' href="http://wa.me/601117950194" > contact us,</a> our customer service center is working for you 24/7.
 
 </p>
 
@@ -21,11 +21,11 @@ If you have any questions, please feel free to <a href="../contact.php" >contact
 
 <tr>
 
-<th> Bank Account Details </th>
+<th> Bank Account Details: </th>
 
-<th> UBL Omni,Mobi Cash Details: </th>
+<th> Touch n Go Details: </th>
 
-<th> Western Union Details: </th>
+<th> Cash-On-Delivery: </th>
 
 </tr>
 
@@ -35,12 +35,11 @@ If you have any questions, please feel free to <a href="../contact.php" >contact
 
 <tr>
 
-<td> Bank Name:ubl Account No:03333333 Branch Code:0342 Branch Name:DemoBranch	 </td>
+<td> Bank Name: CIMB Bank Berhad <br>Account No: 7123456789<br> Recipient Name: Nur Suraiya</td>
 
-<td> NIC#001230006 Mobile No:7410000000, Name:DemoName </td>
+<td> Mobile No: +60 11-1795 0194,<br> Name: Nur Suraiya </td>
 
-<td> Full Name:Demo Name, Mobile No:7000015000, Name:Demo, Country:US, N.I.C No:011234567
-</td>
+<td> Cash Payment will be collected during delivery </td>
 
 
 </tr>

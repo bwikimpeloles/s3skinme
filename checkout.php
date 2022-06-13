@@ -14,7 +14,7 @@ include("includes/main.php");
   <main>
     <!-- HERO -->
     <div class="nero">
-      <div class="nero__heading">
+      <div class="nero__heading" style="text-shadow: 2px 2px 5px #777;">
         <span class="nero__bold">Login or Checkout</span>
       </div>
       <p class="nero__text">

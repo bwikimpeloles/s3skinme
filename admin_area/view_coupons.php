@@ -59,7 +59,7 @@ else {
 <th>#</th>
 <th>Title  </th>
 <th>Product  </th>
-<th>Coupon Price  </th>
+<th>Price after Coupon  </th>
 <th>Code  </th>
 <th>Limit  </th>
 <th>Used  </th>

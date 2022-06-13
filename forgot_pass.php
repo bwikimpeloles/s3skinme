@@ -142,7 +142,7 @@ Click Here To Login Your Account
 
 ";
 
-$from = "sad.ahmed22224@gmail.com";
+$from = "bwikimpeloles@gmail.com";
 
 $subject = "Your Password";
 

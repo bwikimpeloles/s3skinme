@@ -95,7 +95,7 @@ $p_cat_title = $row_p_cat['p_cat_title'];
   <main>
     <!-- HERO -->
     <div class="nero">
-      <div class="nero__heading">
+      <div class="nero__heading" style="text-shadow: 2px 2px 5px #777;">
         <span class="nero__bold">Product </span>View
       </div>
       <p class="nero__text">
@@ -104,7 +104,7 @@ $p_cat_title = $row_p_cat['p_cat_title'];
   </main>
 
 <div id="content" ><!-- content Starts -->
-<div class="container" ><!-- container Starts -->
+<div class="container" style="margin-top:10px"><!-- container Starts -->
 
 
 
@@ -260,7 +260,7 @@ if($status == "product"){
 
 <select name="product_qty" class="form-control" >
 
-<option>Select quantity</option>
+<option value=1 >Select quantity</option>
 <option>1</option>
 <option>2</option>
 <option>3</option>
@@ -276,16 +276,13 @@ if($status == "product"){
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-5 control-label" >Product Size</label>
+<label class="col-md-5 control-label" >Product Variation</label>
 
 <div class="col-md-7" ><!-- col-md-7 Starts -->
 
 <select name="product_size" class="form-control" >
 
-<option>Select a Size</option>
-<option>Small</option>
-<option>Medium</option>
-<option>Large</option>
+<option>No Variation</option>
 
 
 </select>
@@ -358,9 +355,9 @@ echo "
 
 <p class='price'>
 
-Product Price : <del> $$pro_price </del><br>
+Product Price : <del> RM$pro_price </del><br>
 
-Product sale Price : RM$pro_psp_price
+Product Sale Price : RM$pro_psp_price
 
 </p>
 
@@ -706,7 +703,7 @@ echo "
 
 <center>
 
-<p class='btn btn-warning'> $manufacturer_name </p>
+<p class='btn'> $manufacturer_name </p>
 
 </center>
 
@@ -718,13 +715,8 @@ echo "
 
 <p class='buttons' >
 
-<a href='$pro_url' class='btn btn-default' >View Details</a>
+<a href='$pro_url' class='btn btn-default' >View Product</a>
 
-<a href='$pro_url' class='btn btn-danger'>
-
-<i class='fa fa-shopping-cart'></i> Add To Cart
-
-</a>
 
 
 </p>

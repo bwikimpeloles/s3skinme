@@ -14,7 +14,7 @@ include("includes/main.php");
   <main>
     <!-- HERO -->
     <div class="nero">
-      <div class="nero__heading">
+      <div class="nero__heading" style="text-shadow: 2px 2px 5px #777;">
         <span class="nero__bold">SHOP</span> Cart
       </div>
       <p class="nero__text">
@@ -31,7 +31,7 @@ include("includes/main.php");
 
 <div class="col-md-9" id="cart" ><!-- col-md-9 Starts -->
 
-<div class="box" ><!-- box Starts -->
+<div class="box" style="margin-top:10px"><!-- box Starts -->
 
 <form action="cart.php" method="post" enctype="multipart-form-data" ><!-- form Starts -->
 
@@ -65,7 +65,7 @@ $count = mysqli_num_rows($run_cart);
 
 <th>Unit Price</th>
 
-<th>Size</th>
+<th>Variation</th>
 
 <th colspan="1">Delete</th>
 
@@ -443,7 +443,7 @@ echo "
 
 <center>
 
-<p class='btn btn-warning'> $manufacturer_name </p>
+<p class='btn'> $manufacturer_name </p>
 
 </center>
 

@@ -82,7 +82,7 @@
 
             <li class="categories__item">
               <a class="categories__link" target = '_blank' href="http://wa.me/601117950194">
-                Chat with Us
+                Free Skin Consultation
               </a>
             </li>
 

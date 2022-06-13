@@ -17,7 +17,7 @@ $customer_id = $_GET['c_id'];
 
 $ip_add = getRealUserIp();
 
-$status = "Complete";
+$status = "pending";
 
 $invoice_no = mt_rand();
 
@@ -49,7 +49,7 @@ $delete_cart = "delete from cart where ip_add='$ip_add'";
 
 $run_delete = mysqli_query($con,$delete_cart);
 
-echo "<script>alert('Your order has been submitted.Thanks for buying from us! ')</script>";
+echo "<script>alert('Your order has been submitted. Thanks for buying from us!')</script>";
 
 echo "<script>window.open('customer/my_account.php?my_orders','_self')</script>";
 

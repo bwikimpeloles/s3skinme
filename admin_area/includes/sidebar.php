@@ -67,7 +67,7 @@ else {
 
 <a href="index.php?view_products" >
 
-<i class="fa fa-fw fa-envelope" ></i> Products 
+<i class="fa fa-fw fa-envelope" ></i> Products
 
 <span class="badge" ><?php echo $count_products; ?></span>
 
@@ -164,67 +164,13 @@ else {
 
 </li><!-- Products li Ends -->
 
-<li><!-- Bundles Li Starts --->
-
-<a href="#" data-toggle="collapse" data-target="#bundles">
-
-<i class="fa fa-fw fa-edit"></i> Bundles
-
-<i class="fa fa-fw fa-caret-down"></i>
-
-</a>
-
-<ul id="bundles" class="collapse">
-
-<li>
-<a href="index.php?insert_bundle"> Insert Bundle </a>
-</li>
-
-<li>
-<a href="index.php?view_bundles"> View Bundles </a>
-</li>
-
-</ul>
-
-</li><!-- Bundles Li Ends --->
-
-<li><!-- relations li Starts -->
-
-<a href="#" data-toggle="collapse" data-target="#relations"><!-- anchor Starts -->
-
-<i class="fa fa-fw fa-retweet"></i> Assign Products To Bundles Relations
-
-<i class="fa fa-fw fa-caret-down"></i>
-
-</a><!-- anchor Ends -->
-
-<ul id="relations" class="collapse"><!-- collapse Starts -->
-
-<li>
-
-<a href="index.php?insert_rel"> Insert Relation </a>
-
-</li>
-
-
-<li>
-
-<a href="index.php?view_rel"> View Relations </a>
-
-</li>
-
-</ul><!-- collapse Ends -->
-
-
-</li><!-- relations li Ends -->
-
 
 
 <li><!-- manufacturer li Starts -->
 
 <a href="#" data-toggle="collapse" data-target="#manufacturers"><!-- anchor Starts -->
 
-<i class="fa fa-fw fa-briefcase"></i> Manufacturers
+<i class="fa fa-fw fa-briefcase"></i> Brands
 
 <i class="fa fa-fw fa-caret-down"></i>
 
@@ -234,11 +180,11 @@ else {
 <ul id="manufacturers" class="collapse"><!-- ul collapse Starts -->
 
 <li>
-<a href="index.php?insert_manufacturer"> Insert Manufacturer </a>
+<a href="index.php?insert_manufacturer"> Insert Brand </a>
 </li>
 
 <li>
-<a href="index.php?view_manufacturers"> View Manufacturers </a>
+<a href="index.php?view_manufacturers"> View Brands </a>
 </li>
 
 </ul><!-- ul collapse Ends -->
@@ -301,74 +247,7 @@ else {
 
 
 
-<li><!-- store section li Starts -->
 
-<a href="#" data-toggle="collapse" data-target="#store">
-
-<i class="fa fa-fw fa-briefcase"></i> Stores
-
-<i class="fa fa-fw fa-caret-down"></i>
-
-</a>
-
-<ul id="store" class="collapse">
-
-<li>
-<a href="index.php?insert_store"> Insert store </a>
-</li>
-
-<li>
-<a href="index.php?view_store"> View store </a>
-</li>
-
-</ul>
-
-</li><!-- store section li Ends -->
-
-
-<li><!-- contact us li Starts -->
-
-<a href="#" data-toggle="collapse" data-target="#contact_us"><!-- anchor Starts -->
-
-<i class="fa fa-fw fa-pencil"> </i> Contact Us Section
-
-<i class="fa fa-fw fa-caret-down"></i>
-
-</a><!-- anchor Ends -->
-
-<ul id="contact_us" class="collapse">
-
-<li>
-
-<a href="index.php?edit_contact_us"> Edit Contact Us </a>
-
-</li>
-
-<li>
-
-<a href="index.php?insert_enquiry"> Insert Enquiry Type </a>
-
-</li>
-
-<li>
-
-<a href="index.php?view_enquiry"> View Enquiry Types </a>
-
-</li>
-
-</ul>
-
-</li><!-- contact us li Ends -->
-
-<li><!-- about us li Starts -->
-
-<a href="index.php?edit_about_us">
-
-<i class="fa fa-fw fa-edit"></i> Edit About Us Page
-
-</a>
-
-</li><!-- about us li Ends -->
 
 
 <li><!-- Coupons Section li Starts -->
@@ -397,30 +276,7 @@ else {
 
 
 
-<li><!-- terms li Starts -->
 
-<a href="#" data-toggle="collapse" data-target="#terms" ><!-- anchor Starts -->
-
-<i class="fa fa-fw fa-table"></i> Terms
-
-<i class="fa fa-fw fa-caret-down"></i>
-
-</a><!-- anchor Ends -->
-
-<ul id="terms" class="collapse"><!-- ul collapse Starts -->
-
-<li>
-<a href="index.php?insert_term"> Insert Terms </a> 
-</li>
-
-<li>
-<a href="index.php?view_terms"> View Terms </a> 
-</li>
-
-</ul><!-- ul collapse Ends -->
-
-
-</li><!-- terms li Ends -->
 
 
 
@@ -444,15 +300,7 @@ else {
 
 </li>
 
-<li>
 
-<a href="index.php?view_payments">
-
-<i class="fa fa-fw fa-pencil"></i> View Payments
-
-</a>
-
-</li>
 
 <li><!-- li Starts -->
 
@@ -482,6 +330,8 @@ else {
 </ul>
 
 </li><!-- li Ends -->
+
+
 
 <li><!-- li Starts -->
 

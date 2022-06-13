@@ -62,11 +62,12 @@ else {
 <th>Invoice</th>
 <th>Product</th>
 <th>Qty</th>
-<th>Size</th>
+<th>Variation</th>
 <th>Order Date</th>
 <th>Total Amount</th>
 <th>Status</th>
-<th>Action</th>
+<th colspan="2">Action</th>
+
 
 
 </tr>
@@ -117,7 +118,7 @@ $i++;
 <td><?php echo $i; ?></td>
 
 <td>
-<?php 
+<?php
 
 $get_customer = "select * from customers where customer_id='$c_id'";
 
@@ -158,7 +159,7 @@ echo $order_date;
 ?>
 </td>
 
-<td>$<?php echo $due_amount; ?></td>
+<td>RM<?php echo $due_amount; ?></td>
 
 <td>
 <?php
@@ -186,6 +187,13 @@ echo $order_status='Completed';
 
 </a>
 
+</td>
+
+
+<td>
+<a href="../customer/confirm.php?order_id=<?php echo $order_id; ?>">
+Confirm Payment
+</a>
 </td>
 
 
