@@ -172,7 +172,7 @@ $cat_title = $row_cat['cat_title'];
 
 <p style="font-size:15px; font-weight:bold;">
 
-Product Url Example : navy-blue-t-shirt
+Product Url Example : product-skincare-1
 
 </p>
 
@@ -454,7 +454,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 </div>
 
 <br><br> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Note: Product with 'Sale' label will sold with sale price 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Note: Product with 'Sale' label will sold with sale price
 
 </div><!-- form-group Ends -->
 

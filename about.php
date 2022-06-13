@@ -123,7 +123,7 @@ html {
 <div class="about-section">
   <h1>About Us - Our Story</h1>
   <h4>S3.SkinMe, Your Best SkinCare Platform</h4>
-  <p>Welcome to S3.SkinMe, your number one source for all things skincare products.
+  <p>Welcome to S3.SkinMe, your number one source for all skincare products.
     We're dedicated to providing you the very best of platform for skincare, with an
     emphasis on affordable local skincare products, free skin consultation service, low delivery charges and guaranteed authenticity.
     Founded in 2022 by Syafiqa, Sarah and Suraiya, S3.SkinMe has come a long way from
@@ -139,7 +139,7 @@ If you have any questions or comments, please don't hesitate to contact us.
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="images/syafiqa.jpeg" alt="Syafiqa" style="width:100%">
+      <img src="images/pika.jpg" alt="Syafiqa" style="width:100%">
       <div class="container">
         <h2>Syafiqa (202422)</h2>
         <p class="title">Founder & Developer</p>
@@ -159,7 +159,7 @@ If you have any questions or comments, please don't hesitate to contact us.
 
   <div class="column">
     <div class="card">
-      <img src="images/syafiqa.jpeg" alt="Suraiya" style="width:100%">
+      <img src="images/suraiya.jpeg" alt="Suraiya" style="width:100%">
       <div class="container">
         <h2>Suraiya (204233)</h2>
         <p class="title">Founder & Developer</p>
