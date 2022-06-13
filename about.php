@@ -149,7 +149,7 @@ If you have any questions or comments, please don't hesitate to contact us.
 
   <div class="column">
     <div class="card">
-      <img src="images/syafiqa.jpeg" alt="Sarah" style="width:100%">
+      <img src="images/sarah.jpg" alt="Sarah" style="width:100%">
       <div class="container">
         <h2>Sarah (202376)</h2>
         <p class="title">Founder & Developer</p>
