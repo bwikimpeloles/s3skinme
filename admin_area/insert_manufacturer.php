@@ -100,7 +100,7 @@ else {
 
 <div class="col-md-6">
 
-<input type="submit" name="submit" class="form-control btn btn-primary" value=" Insert Manufacturer " >
+<input type="submit" name="submit" class="form-control btn btn-primary" value=" Insert Brand " >
 
 </div>
 

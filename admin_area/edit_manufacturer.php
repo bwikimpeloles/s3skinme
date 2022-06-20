@@ -133,7 +133,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <div class="col-md-6">
 
-<input type="submit" name="update" class="form-control btn btn-primary" value=" Update Manufacturer " >
+<input type="submit" name="update" class="form-control btn btn-primary" value=" Update Brand " >
 
 </div>
 
