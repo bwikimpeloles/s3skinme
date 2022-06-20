@@ -15,8 +15,8 @@ include("includes/main.php");
   <main>
     <!-- HERO -->
     <div class="nero">
-      <div class="nero__heading">
-        <span class="nero__bold">Register</span> AT AVE
+      <div class="nero__heading" style="text-shadow: 2px 2px 5px #777;">
+        <span class="nero__bold">REGISTER</span> AT S3.SKINME
       </div>
       <p class="nero__text">
       </p>

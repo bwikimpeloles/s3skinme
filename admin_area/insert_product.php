@@ -100,13 +100,13 @@ Product Url Example : product-skincare-1
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Select A Manufacturer </label>
+<label class="col-md-3 control-label" > Select A Brand </label>
 
 <div class="col-md-6" >
 
 <select class="form-control" name="manufacturer"><!-- select manufacturer Starts -->
 
-<option> Select A Manufacturer </option>
+<option> Select A Brand </option>
 
 <?php
 
@@ -358,7 +358,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 </div>
 <br><br> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Note: Product with 'Sale' label will sold with sale price 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Note: Product with 'Sale' label will sold with sale price
 
 </div><!-- form-group Ends -->
 

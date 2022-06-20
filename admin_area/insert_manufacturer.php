@@ -21,7 +21,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard"></i> Dashboard / Insert Manufacturer
+<i class="fa fa-dashboard"></i> Dashboard / Insert Brand
 
 </li>
 
@@ -42,7 +42,7 @@ else {
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw"> </i> Insert Manufacturer
+<i class="fa fa-money fa-fw"> </i> Insert Brand
 
 </h3><!-- panel-title Ends -->
 
@@ -54,7 +54,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Manufacturer Name </label>
+<label class="col-md-3 control-label"> Brand Name </label>
 
 <div class="col-md-6">
 
@@ -66,7 +66,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Show as Top Manufacturers </label>
+<label class="col-md-3 control-label"> Show as Top Brands </label>
 
 <div class="col-md-6">
 
@@ -84,7 +84,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Select Manufacturer Image </label>
+<label class="col-md-3 control-label"> Select Brand Image </label>
 
 <div class="col-md-6">
 
@@ -136,7 +136,7 @@ $run_manufacturer = mysqli_query($con,$insert_manufacturer);
 
 if($run_manufacturer){
 
-echo "<script>alert('New Manufacturer Has Been Inserted')</script>";
+echo "<script>alert('New Brand Has Been Inserted')</script>";
 
 echo "<script>window.open('index.php?view_manufacturers','_self')</script>";
 
